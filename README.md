@@ -17,11 +17,6 @@ sudo python3 cleanRAM.py
 
 ---
 
-## 🧾 Y para la licencia
-
-La línea que tienes está bien como texto plano, pero si quieres que se vea más destacada, puedes ponerla así:
-
-markdown
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LIC
