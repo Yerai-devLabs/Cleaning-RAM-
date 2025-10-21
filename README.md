@@ -1,4 +1,4 @@
-# CLEANING RAM OF LINUX
+# CLEANING RAM OF LINUX 1.0.
 
 Una herramienta gráfica en Python que permite limpiar la caché de RAM en sistemas Linux usando comandos del sistema.
 One tool graphic in Python what enable to cleaning the cache of RAM in system Linux using comands of system
