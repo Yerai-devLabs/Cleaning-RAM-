@@ -7,21 +7,20 @@ One tool graphic in Python what enable to cleaning the cache of RAM in system Li
 - Python 3.8 or high
 - Linux (probado en Fedora y Ubuntu)
 
-# Instalation
+## 🚀 Instalación
 
-# First Clone the repository
+```bash
 git clone https://github.com/Yerai-devLabs/Cleaning-RAM-.git
-
-# Get in the proyect
 cd Cleaning-RAM-
-
-# Execute the program of user
 sudo python3 limpiar_ram.py
+```
+---
 
+## 🧾 Y para la licencia
 
+La línea que tienes está bien como texto plano, pero si quieres que se vea más destacada, puedes ponerla así:
 
-### **Contribuciones**
-```markdown
-¡Las contribuciones son bienvenidas! Puedes hacer un fork, crear una rama y enviar un pull request.
+markdown
+## 📄 Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LIC
