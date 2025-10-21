@@ -5,7 +5,7 @@
 
 # REQUIREMENTS
 - Python 3.8 or high
-- Linux (probado en Fedora y Ubuntu)
+- Linux (test in Fedora and Ubuntu)
 
 ## 🚀 Instalación
 
