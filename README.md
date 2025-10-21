@@ -12,8 +12,9 @@ One tool graphic in Python what enable to cleaning the cache of RAM in system Li
 ```bash
 git clone https://github.com/Yerai-devLabs/Cleaning-RAM-.git
 cd Cleaning-RAM-
-sudo python3 limpiar_ram.py
+sudo python3 cleanRAM.py
 ```
+
 ---
 
 ## 🧾 Y para la licencia
