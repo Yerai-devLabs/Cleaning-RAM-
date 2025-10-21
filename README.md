@@ -7,10 +7,10 @@ One tool graphic in Python what enable to cleaning the cache of RAM in system Li
 - Python 3.8 or high
 - Linux (probado en Fedora y Ubuntu)
 
-# Instalation
-- git clone https://github.com/tuusuario/limpiador-ram.git
-- cd limpiador-ram
-- sudo python3 limpiar_ram.py
+# Instalation git clone 
+git clone 
+cd limpiador-ram
+sudo python3 limpiar_ram.py
 
 
 ### **Contribuciones**
