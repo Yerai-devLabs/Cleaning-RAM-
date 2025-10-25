@@ -17,6 +17,8 @@ sudo python3 cleanRAM.py
 Create icon in the desktop Linux
 ```bash
 chmod +x /route/script.py
+```
+```bash
 [Desktop Entry]
 Type=Application
 Name=CleanRAM
@@ -24,7 +26,7 @@ Exec=gksudo /route/script.py
 Icon=utilities-terminal
 Terminal=true
 Categories=Utility;
-```
+``` 
 ---
 
 ## 📄 Licencia
